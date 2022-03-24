@@ -1,0 +1,11 @@
+.containerInputPassword {
+  position: relative;
+}
+
+.containerInputPassword img {
+  position: absolute;
+  width: 24px;
+  top: 30px;
+  right: 10px;
+  cursor: pointer;
+}

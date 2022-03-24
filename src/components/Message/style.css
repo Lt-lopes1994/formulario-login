@@ -1,0 +1,16 @@
+.successContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.successContainer img {
+  width: 440px;
+}
+
+.successContainer h2 {
+  font-weight: bold;
+  font-size: 26px;
+  color: #0b2f49;
+}
